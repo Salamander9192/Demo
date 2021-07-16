@@ -18,6 +18,7 @@
         <module>fmut-guard-srv</module>
         <module>fmut-toolkits</module>
         <module>fmut-order</module>
+        <module>sds</module>
     </modules>
 
     <properties>
